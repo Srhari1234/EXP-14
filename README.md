@@ -28,7 +28,7 @@ A key concept in object-oriented programming in C++ is inheritance, which enable
 ## Single Inheritance:  
 A derived class inherits from only one base class. <BR>
 ```
-lass Base {
+class Base {
     // Base class members
 };
 
